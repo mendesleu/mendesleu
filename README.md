@@ -31,4 +31,5 @@
 - ⚡ Fun fact: ...
 -->
 
+![mendesleu GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesleu&show_icons=true&theme=tokyonight)
 [![mendeleu GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesleu&show_icons=true&theme=tokyonight,))](https://github.com/mendesleu/github-readme-stats)
