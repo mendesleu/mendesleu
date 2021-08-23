@@ -15,9 +15,9 @@
 
 ## About me
 
-[![Github Badge](https://github.com/mendesleu)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mendesleu)](https://github.com/mendesleu)
 
-[![Linkedin Badge](https://www.linkedin.com/in/leo-mendes/)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-mendes/)]( https://www.linkedin.com/in/leo-mendes/)
 
 
 
