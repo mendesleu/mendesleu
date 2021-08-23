@@ -1,17 +1,9 @@
 
 ## Olá sou Leo Mendes!
 
- 
+![mendesleu GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesleu&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesleu&layout=compact)](https://github.com/mendesleu/github-readme-stats)
 
-:computer: Sou Full Stack Developer!
-
-:house_with_garden: Moro no Brasil.
-
-:books: Estou aprendendo o máximo possivél sobre programação Web.
-
-:outbox_tray: Objetivos 2021: Entrar no mundo da porgramação com meus projetos.
-
- 
 
 ## About me
 
@@ -24,7 +16,4 @@ Programador Full Stack Web. <br>
 
 - Obrigado pela Visita.
 
-
-![mendesleu GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesleu&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesleu&layout=compact)](https://github.com/mendesleu/github-readme-stats)
 
