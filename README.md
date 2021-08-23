@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**mendesleu/mendesleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Leo Mendes!
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
+ 
+
+## About me
+
+[![Github Badge](https://github.com/mendesleu)](LINK_GIT)
+
+[![Linkedin Badge](https://www.linkedin.com/in/leo-mendes/)]( LINK_LINKEDIN)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
 - ⚡ Fun fact: ...
 -->
+
+[![mendeleu GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesleu)](https://github.com/mendesleu/github-readme-stats)
