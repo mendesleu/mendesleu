@@ -7,7 +7,9 @@
 
 ## Sobre Mim
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-mendes/)]( https://www.linkedin.com/in/leo-mendes/) [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes_leu/)]( https://www.instagram.com/mendes_leu/)
+[![Linkedin Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=[https://www.linkedin.com/in/leo-mendes](https://www.youtube.com/channel/UCHGpEYheuAm5BPdJrgP9S9A/videos)/)]( https://www.linkedin.com/in/leo-mendes/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-mendes/)]( https://www.linkedin.com/in/leo-mendes/) 
+[![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes_leu/)]( https://www.instagram.com/mendes_leu/)
 
 ## Estudante De: <br>
 ![Linkedin Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
