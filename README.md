@@ -7,7 +7,7 @@
 
 ## About Me
 <p>
-  Hello, my name is Leo Mendes. I am a software engineer. My favorite language is PHP. I am a full stack developer and my current job is as a developer in an ERP software management team.
+ # Hello, my name is Leo Mendes, and I am from Brazil. I am a software engineer. My favorite language is PHP. I am a full stack developer, and my current job is as a developer in an ERP software management team.
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCHGpEYheuAm5BPdJrgP9S9A/videos/)]( https://www.youtube.com/channel/UCHGpEYheuAm5BPdJrgP9S9A/videos/) 
